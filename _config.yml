@@ -1,8 +1,8 @@
 # Site settings
-title: Grayscale
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: April D. Makukhov
+email: April.Makukhov@uvm.edu
+url: https://amakukhov.github.io
+description: "I am a 2nd year Biology PhD student in Dr. Melissa Pespeni's lab at the University of Vermont. My research addresses impacts of global change stressors on the physiology and population genomics of marine organisms."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
