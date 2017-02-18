@@ -1,21 +1,76 @@
-// Variables
+/* ==========================================================================
+   VARIABLES
+   ========================================================================== */
 
-// Main color
-$primary-color: #000;
+/* Colors
+   ========================================================================== */
 
-// Anchor color
-$secondary-color: #00cdff;
+/* Don't use black */
 
-// Font color
-$font-color: #fff;
+$black:  #3b3b3b;
+$white: #f9f9f9;
 
-$navbar-text-shadow: true;
-$header-text-shadow: true;
-$header-background-color: $primary-color;
-$intro-text-color: $font-color;
-$navbar-color: $font-color;
-$navbar-lg-collapse-background-color: $header-background-color;
-$navbar-lg-background: transparent;
-$navbar-sm-background-color: $navbar-lg-collapse-background-color;
+/* Gray scale */
 
-$social-buttons-color: $secondary-color;
+$grey-dark:   #222;
+$grey-medium: #999;
+$grey-light:  #d9d9d9;
+
+/* Hilight */
+$hilite: #fffbd7;
+
+/* Accent Colors */
+$link: #8AB9D1;
+$accent: #24536B;
+
+
+/* Typography
+   ========================================================================== */
+
+$sans: "Source Sans Pro", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
+$serif: "Calendas Plus","Crimson Text", "Hoefler Text", "Georgia", serif;
+
+   
+   
+/* Type Scale
+   ========================================================================== */
+
+/** * 12 & 16 as roots then powers of two. */
+
+$fs1:64px;
+$fs2:48px;
+$fs3:32px;
+$fs4:24px;
+
+$fsp:22px;
+
+$fs5:16px;
+$fs6:12px;
+
+// Line Height
+
+$lh: 33px;
+$lhsmall: 24px;
+
+// Sizing 
+$footerHeight: 320px;
+
+// Griddit
+
+
+
+/* Break Points
+   ========================================================================== */
+   
+/* Mobile */
+$breakpoint-1-max-width:480px;
+
+/* Tablet */
+$breakpoint-2-max-width:800px;
+$breakpoint-3-max-width:1200px;
+
+/* Style Tidbits
+   ========================================================================== */
+
+$borderR: 4px;
+
